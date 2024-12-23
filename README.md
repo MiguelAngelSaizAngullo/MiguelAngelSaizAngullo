@@ -2,7 +2,7 @@
 
 Soy un estudiante desarrollándose en fullstack
 
-##🚀 Sobre mi
+## 🚀 Sobre mi
 
 Soy un joven apasionado de 20 años que actualmente estoy estudiando DAW (Desarrollo de Aplicaciones Web) con estudios de ASIX (Administración de sistemas informaticos en red con perfil de ciberseguridad) y SMX (Sistemas microinformaticos y redes).
 Tambien soy un chico que le gusta trabajar en equipo, tambien soy un chico proactivo e innovador, tengo una mentalidad de crecimiento, ya que me gusta mucho aprender.
