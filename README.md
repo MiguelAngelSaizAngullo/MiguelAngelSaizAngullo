@@ -1,5 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=000000&size=30&lines=Hola!+Mi+nombre+es+Miguel+Angel!+👋;Soy+un+estudiante+de+Full+Stack)
-## Hola, mi nombre es Miguel Angel! 👋
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=000000&size=30&lines=Hola!+Mi+nombre+es+Miguel!+👋;Soy+un+estudiante+de+Full+Stack)
 
 Soy un estudiante desarrollándose en fullstack
 
