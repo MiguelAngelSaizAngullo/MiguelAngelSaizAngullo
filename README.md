@@ -26,6 +26,11 @@ Tambien soy un chico que le gusta trabajar en equipo, tambien soy un chico proac
     width="60px"
     alt="php">
     &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
+    width="60px"
+    alt="C++">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+
           
 
 
