@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=000000&size=30&lines=Hola!+Mi+nombre+es+Miguel!+👋;Soy+un+estudiante+de+Full+Stack)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Serif&weight=600&pause=1000&background=FFFFFF00&width=435&lines=Hola+mi+nombre+es+Miguel+Angel!%F0%9F%91%8B;Soy+un+estudiante+de+Full+Stack)](https://git.io/typing-svg)
 
 Soy un estudiante desarrollándose en fullstack
 
