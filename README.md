@@ -17,7 +17,17 @@ Tambien soy un chico que le gusta trabajar en equipo, tambien soy un chico proac
     width="60px"
     alt="HTML5">
     &nbsp;&nbsp;&nbsp;&nbsp;
+<img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"
+    width="60px"
+    alt="css3">
+    &nbsp;&nbsp;&nbsp;&nbsp;
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
+    width="60px"
+    alt="php">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+          
 
 
 <!--
