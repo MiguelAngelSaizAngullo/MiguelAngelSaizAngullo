@@ -42,7 +42,7 @@ Tambien soy un chico que le gusta trabajar en equipo, tambien soy un chico proac
 ## 🛠 Herramientas
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg"
     width="60px"
-    alt=""vsCode>
+    alt="vsCode">
     &nbsp;&nbsp;&nbsp;&nbsp;
           
           
