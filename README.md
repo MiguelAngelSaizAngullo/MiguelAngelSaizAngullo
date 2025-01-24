@@ -47,7 +47,7 @@ Tambien soy un chico que le gusta trabajar en equipo, tambien soy un chico proac
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg"
     width="60"
     alt="Eclipse">
-    &nbsp;&nbsp;&nbsp;&nbsp
+    &nbsp;&nbsp;&nbsp;&nbsp;
           
           
           
