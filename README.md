@@ -1,70 +1,42 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Serif&weight=600&pause=1000&background=FFFFFF00&width=435&lines=Hola+mi+nombre+es+Miguel+Angel!%F0%9F%91%8B;Soy+un+estudiante+de+Full+Stack)](https://git.io/typing-svg)
+<h1 align="center">Hola 👋, soy Miguel Angel Saiz Angullo</h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
+</p>
 
-## 🚀 Sobre mi
+---
 
-Soy un joven apasionado de 20 años que actualmente estoy estudiando DAW (Desarrollo de Aplicaciones Web) con estudios de ASIX (Administración de sistemas informaticos en red con perfil de ciberseguridad) y SMX (Sistemas microinformaticos y redes).
-Tambien soy un chico que le gusta trabajar en equipo, tambien soy un chico proactivo e innovador, tengo una mentalidad de crecimiento, ya que me gusta mucho aprender.
+**Tengo X años** (ajusta según corresponda), soy una persona apasionada por la **calidad del software y el testing web**. Me enfoco muchísimo en los detalles, porque sé que son los que marcan la diferencia entre un código bueno y uno excelente. Actualmente trabajo y estudio para especializarme en **QA Automation y desarrollo web**, y sigo en constante aprendizaje sobre nuevas tecnologías y metodologías.
 
-## 🛠 Lenguajes
+---
 
-<img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
-    width="60px"
-    alt="Java">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-<img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"
-    width="60px"
-    alt="HTML5">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-<img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"
-    width="60px"
-    alt="css3">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
-    width="60px"
-    alt="php">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
-    width="60px"
-    alt="C++">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"
-    width="60px"
-    alt="Python">
-    &nbsp;&nbsp;&nbsp;&nbsp; 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
-    width="60px"
-    alt="MySQL">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    
-## 🛠 Herramientas
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
-    width="60px"
-    alt="vsCode">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg"
-    width="60"
-    alt="Eclipse">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-          
-          
-          
-          
+![Coding](https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif)
 
+### 👨🏻‍💻 Sobre mí
 
-<!--
-**MiguelAngelSaizAngullo/MiguelAngelSaizAngullo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Soy **QA Analyst y estudiante** enfocado en el testing y la mejora continua.
+- 💻 Me interesa especialmente la **automatización de pruebas**, con experiencia en Playwright y frameworks modernos.
+- 📚 Siempre aprendiendo sobre **testing, frameworks de automatización, buenas prácticas y desarrollo web**.
+- 💬 Si tienes dudas o quieres colaborar, **¡contáctame!**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tecnologías y herramientas
+
+<img src="https://skillicons.dev/icons?i=playwright,js,html,css,ts,python,github,git,markdown,vscode,linux" />
+
+---
+
+### 🤝 Conecta conmigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/TU_USUARIO_LINKEDIN/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge)](https://github.com/MiguelAngelSaizAngullo)
+[![Email](https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge)](mailto:miguelsaizangull@gmail.com)
+
+---
+
+### ⚙️ GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MiguelAngelSaizAngullo&theme=vue&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelAngelSaizAngullo&theme=vue&layout=compact" />
+</p>
