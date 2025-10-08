@@ -2,7 +2,7 @@
 
 <h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?color=00ffd1&size=21&center=true&vCenter=true&width=650&height=100&lines=A+QA+Analyst+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+and+Testing+Enthusiast+%F0%9F%9A%80+from+Spain"></h3>
 
-**Tengo X años** (ajusta según corresponda), soy una persona apasionada por la ***calidad del software y el testing web***. Me fijo muchísimo en *"los pequeños detalles, ya que eso es lo que marca la diferencia entre un buen código y uno malo"*. Actualmente estoy enfocado en el sector del **QA Automation**, y para poder seguir creciendo como QA, estoy estudiando y especializándome en **automatización de pruebas** con tecnologías modernas.
+**Tengo 21 años**, soy una persona apasionada por la ***calidad del software y el testing web***. Me fijo muchísimo en *"los pequeños detalles, ya que eso es lo que marca la diferencia entre un buen código y uno malo"*. Actualmente estoy enfocado en el sector del **QA Automation**, y para poder seguir creciendo como QA, estoy estudiando y especializándome en **automatización de pruebas** con tecnologías modernas.
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
